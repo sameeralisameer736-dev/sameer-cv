@@ -143,11 +143,7 @@ function Index() {
             /* @__PURE__ */ jsxRuntimeExports.jsx("span", { className: "h-1.5 w-1.5 rounded-full bg-primary animate-pulse" }),
             "Available for freelance & internships"
           ] }),
-          /* @__PURE__ */ jsxRuntimeExports.jsxs("h1", { className: "font-display text-5xl font-bold leading-[1.05] md:text-7xl", children: [
-            "Sameer Ali ",
-            /* @__PURE__ */ jsxRuntimeExports.jsx("br", {}),
-            /* @__PURE__ */ jsxRuntimeExports.jsx("span", { className: "text-gradient", children: "Sharief" })
-          ] }),
+          /* @__PURE__ */ jsxRuntimeExports.jsx("h1", { className: "font-display text-5xl font-bold leading-[1.05] md:text-7xl", children: "Sameer" }),
           /* @__PURE__ */ jsxRuntimeExports.jsx("p", { className: "mt-6 max-w-xl text-lg text-muted-foreground", children: "BCA student, web developer, and AI-powered video editor. I build clean web experiences and craft short & long-form videos that feel alive." }),
           /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "mt-8 flex flex-wrap gap-3", children: [
             /* @__PURE__ */ jsxRuntimeExports.jsx("a", { href: "#projects", className: "rounded-full bg-primary px-6 py-3 text-sm font-medium text-primary-foreground glow-ring transition hover:scale-105", children: "View Projects" }),

@@ -75,7 +75,7 @@ function Index() {
               Available for freelance & internships
             </p>
             <h1 className="font-display text-5xl font-bold leading-[1.05] md:text-7xl">
-              Sameer Ali <br /><span className="text-gradient">Sharief</span>
+              Sameer
             </h1>
             <p className="mt-6 max-w-xl text-lg text-muted-foreground">
               BCA student, web developer, and AI-powered video editor. I build clean web experiences and craft short & long-form videos that feel alive.
