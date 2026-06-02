@@ -84,10 +84,7 @@ function ThemeToggle() {
     }
   );
 }
-const url = "/__l5e/assets-v1/9d3b1bd8-3874-4a77-90d7-5d4295ec2771/sameer.jpeg";
-const sameerAsset = {
-  url
-};
+const sameerImageUrl = "/assets/sameer-D5QKaLhC.jpeg";
 const skills = [{
   name: "HTML",
   icon: CodeXml
@@ -159,7 +156,7 @@ function Index() {
         ] }),
         /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "relative mx-auto w-full max-w-sm", children: [
           /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "absolute -inset-4 rounded-3xl bg-gradient-to-br from-primary/40 to-accent/30 blur-2xl" }),
-          /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "relative overflow-hidden rounded-3xl border border-border glow-ring", children: /* @__PURE__ */ jsxRuntimeExports.jsx("img", { src: sameerAsset.url, alt: "Portrait of Sameer Ali Sharief", className: "aspect-[3/4] w-full object-cover" }) })
+          /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "relative overflow-hidden rounded-3xl border border-border glow-ring", children: /* @__PURE__ */ jsxRuntimeExports.jsx("img", { src: sameerImageUrl, alt: "Portrait of Sameer Ali Sharief", className: "aspect-[3/4] w-full object-cover" }) })
         ] })
       ] })
     ] }),

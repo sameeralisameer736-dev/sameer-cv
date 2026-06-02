@@ -2,7 +2,7 @@ import { createFileRoute } from "@tanstack/react-router";
 import { Github, Linkedin, Mail, Phone, Code2, Video, Sparkles, ExternalLink } from "lucide-react";
 import { HeroScene } from "@/components/HeroScene";
 import { ThemeToggle } from "@/components/ThemeToggle";
-import sameerAsset from "@/assets/sameer.jpeg.asset.json";
+import sameerImageUrl from "@/assets/sameer.jpeg";
 
 export const Route = createFileRoute("/")({
   head: () => ({
@@ -94,7 +94,7 @@ function Index() {
             <div className="absolute -inset-4 rounded-3xl bg-gradient-to-br from-primary/40 to-accent/30 blur-2xl" />
             <div className="relative overflow-hidden rounded-3xl border border-border glow-ring">
               <img
-                src={sameerAsset.url}
+                src={sameerImageUrl}
                 alt="Portrait of Sameer Ali Sharief"
                 className="aspect-[3/4] w-full object-cover"
               />
